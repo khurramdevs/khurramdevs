@@ -1,12 +1,28 @@
-- 👋 Hi, I’m @khurramdevs
-- 👀 I’m interested in Flutter
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Fast learner
+# Welcome to Khurram Saeed's GitHub Profile! 👋🚀👨‍💻
 
-<!---
-khurramdevs/khurramdevs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Mobile App Development
+
+[LinkedIn] https://www.linkedin.com/in/khurram-saeed-68852932b
+[Email] khurramsaeed934@email.com
+[Phone] +92 313 9634 893
+
+
+---
+
+### About Me 👨‍🎓👨‍🏫
+
+* 🎓 Computer Science Student
+* 📱 Mobile Application Development Enthusiast (Currently learning Flutter)
+* 👨‍🏫 Aspiring to share knowledge and help fellow learners
+* 💻 Continuously exploring new technologies and frameworks
+* 🤝 Open to collaboration on interesting Flutter projects
+* ⚡ Fast learner with a passion for tackling technical challenges
+
+---
+
+### Connect with me 🌐
+
+[LinkedIn] https://www.linkedin.com/in/khurram-saeed-68852932b
+[Email] khurramsaeed934@email.com
+
+---
