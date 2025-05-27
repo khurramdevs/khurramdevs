@@ -7,12 +7,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khurramdevs" alt="khurramdevs" /></a> </p>
 
+
+
+
+
+
 * 🎓 Computer Science Student
 * 📱 Mobile Application Development Enthusiast (Currently learning Flutter)
 * 👨‍🏫 Aspiring to share knowledge and help fellow learners
 * 💻 Continuously exploring new technologies and frameworks
 * 🤝 Open to collaboration on interesting Flutter projects
 * ⚡ Fast learner with a passion for tackling technical challenges
+
+
+
+
 
 
 ---
