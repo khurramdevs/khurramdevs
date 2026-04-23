@@ -9,11 +9,10 @@
 
 # 👋 Hi there, I'm **Khurram Saeed**
 
-###  Flutter Developer | CS Student 3rd Year | Peshawar, PK 🇵🇰
+### Flutter Developer | CS Student 3rd Year | Peshawar, 🇵🇰
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=520&lines=Flutter+Developer+%F0%9F%92%99;Building+Cross-Platform+Apps+%F0%9F%93%B1;CS+Student+3rd+Year+%F0%9F%8E%93;Learning+by+Building+Real+Apps....;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
 
-<br/>
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -22,15 +21,18 @@
 
 </div>
 
+
 ---
+
+<br/>
 
 <table><tr><td valign="top" width="60%">
 
 ##  About Me
 
-- **CS Student** — 3rd Year at University
+-  **CS Student** — 3rd Year at University
 - 📍 Based in **Peshawar, Pakistan** 🇵🇰
--  Passionate **Flutter** mobile developer
+-   **Flutter** mobile App developer
 -  Also comfortable with **C++** & algorithms
 -  Open to **collaborate** on Flutter / open source projects 🤝
 -  Fun fact: I debug with **print()** and I'm proud of it 😄
@@ -55,11 +57,17 @@
 
 </td></tr></table>
 
+<br/>
+
 ---
+
+<br/>
 
 <div align="center">
 
 ## 📊 GitHub Stats
+
+<br/>
 
 <table><tr>
 <td>
@@ -72,25 +80,58 @@
 
 </td></tr></table>
 
+<br/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khurramdevs&layout=compact&theme=tokyonight&hide_border=true)
+
+<br/><br/>
+
+## 🏆 GitHub Trophies
+
+<br/>
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=khurramdevs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/><br/>
+
+## 📈 Contribution Graph
+
+<br/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khurramdevs&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 <div align="center">
 
 ## 🤝 Let's Connect
 
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khurram-saeed-68852932b)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khurramsaeed934@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khurramdevs)
+
+<br/>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=khurramdevs.khurramdevs)
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
+
 <div align="center">
+
 ⭐ If you find my work helpful, consider giving a star!
+
 </div>
