@@ -11,7 +11,7 @@
 
 ###  Flutter Developer | CS Student 3rd Year | Peshawar, PK 🇵🇰
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=520&lines=Flutter+Developer+%F0%9F%92%99;Building+Cross-Platform+Apps+%F0%9F%93%B1;CS+Student+3rd+Year+%F0%9F%8E%93;Learning+by+Building+Real+Apps+%F0%9F%9A%80;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=520&lines=Flutter+Developer+%F0%9F%92%99;Building+Cross-Platform+Apps+%F0%9F%93%B1;CS+Student+3rd+Year+%F0%9F%8E%93;Learning+by+Building+Real+Apps....;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
 
 <br/>
 
@@ -26,15 +26,14 @@
 
 <table><tr><td valign="top" width="60%">
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 **CS Student** — 3rd Year at University
+- **CS Student** — 3rd Year at University
 - 📍 Based in **Peshawar, Pakistan** 🇵🇰
-- 💙 Passionate **Flutter** mobile developer
-- ⚙️ Also comfortable with **C++** & algorithms
-- 🌱 Currently learning **clean architecture** & state management
-- 🤝 Open to **collaborate** on Flutter / open source projects
-- ⚡ Fun fact: I debug with **print()** and I'm proud of it 😄
+-  Passionate **Flutter** mobile developer
+-  Also comfortable with **C++** & algorithms
+-  Open to **collaborate** on Flutter / open source projects 🤝
+-  Fun fact: I debug with **print()** and I'm proud of it 😄
 
 </td><td valign="top" width="40%">
 
