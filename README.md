@@ -9,7 +9,7 @@
 
 # 👋 Hi there, I'm **Khurram Saeed**
 
-###  Flutter & Dart Developer | CS Student 3rd Year | Peshawar, PK 🇵🇰
+###  Flutter Developer | CS Student 3rd Year | Peshawar, PK 🇵🇰
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=520&lines=Flutter+%26+Dart+Developer+%F0%9F%92%99;Building+Cross-Platform+Apps+%F0%9F%93%B1;CS+Student+3rd+Year+%F0%9F%8E%93;Learning+by+Building+Real+Apps+%F0%9F%9A%80;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
 
