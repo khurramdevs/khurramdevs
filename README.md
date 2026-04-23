@@ -18,7 +18,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=580&lines=Of+All+the+profiles+in+the+world...+you+found+mine+%F0%9F%91%8B;Welcome+%E2%80%94+I%27m+Khurram+Saeed;Flutter+Developer+from+Peshawar+%F0%9F%87%B5%F0%9F%87%B0;Building+Cross-Platform+Apps+%F0%9F%92%99;I+Don%27t+Follow+a+Schedule...;I+Follow+Inspiration+%E2%9C%A8;Open+to+Collaborate+%F0%9F%A4%9D;Warning%3A+May+Cause+Collaboration+%F0%9F%98%84" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=580&lines=All+the+profiles+in+the+world...+you+found+mine+%F0%9F%91%8B;Welcome+%E2%80%94+I%27m+Khurram+Saeed;Flutter+Developer+from+Peshawar+%F0%9F%87%B5%F0%9F%87%B0;Building+Cross-Platform+Apps+%F0%9F%92%99;I+Don%27t+Follow+a+Schedule...;I+Follow+Inspiration+%E2%9C%A8;Open+to+Collaborate+%F0%9F%A4%9D;Warning%3A+May+Cause+Collaboration+%F0%9F%98%84" alt="Typing SVG" />
 
 <br/><br/>
 
