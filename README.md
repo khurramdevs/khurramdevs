@@ -1,18 +1,26 @@
 <!--
-  ╔═══════════════════════════════════════════╗
-  ║  Khurram Saeed — GitHub Profile README   ║
-  ║  Flutter Developer · Peshawar, PK        ║
-  ╚═══════════════════════════════════════════╝
+  ╔══════════════════════════════════════════════════╗
+  ║   Khurram Saeed — GitHub Profile README          ║
+  ║   Flutter Developer · Peshawar, PK               ║
+  ║   Crafted to make every visitor say "WOW" 👑     ║
+  ╚══════════════════════════════════════════════════╝
 -->
 
 <div align="center">
 
-# 👋 Hi there, I'm **Khurram Saeed**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0077B6&height=200&section=header&text=Khurram%20Saeed&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Peshawar%20%F0%9F%87%B5%F0%9F%87%B0%20%7C%20CS%20Student&descAlignY=58&descSize=18&animation=fadeIn" />
 
-### Flutter Developer | CS Student 3rd Year | Peshawar, 🇵🇰
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=520&lines=Flutter+Developer+%F0%9F%92%99;Building+Cross-Platform+Apps+%F0%9F%93%B1;CS+Student+3rd+Year+%F0%9F%8E%93;Learning+by+Building+Real+Apps....;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
+<div align="center">
 
+### *"Quiet in person. Productive in silence. Loud in commits."* 😄
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=580&lines=Of+all+the+profiles+in+the+world...+you+found+mine+%F0%9F%91%8B;Welcome+%E2%80%94+I%27m+Khurram+Saeed+%F0%9F%92%99;Flutter+Developer+from+Peshawar+%F0%9F%87%B5%F0%9F%87%B0;Building+Cross-Platform+Apps+%F0%9F%92%99;I+Don%27t+Follow+a+Schedule...;I+Follow+Inspiration+%E2%9C%A8;Open+to+Collaborate+%F0%9F%A4%9D;Warning%3A+May+Cause+Collaboration+%F0%9F%98%84" alt="Typing SVG" />
+
+<br/><br/>
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -21,43 +29,91 @@
 
 </div>
 
+---
+
+<br/>
+
+##  Welcome, You Found Me!
+
+> *I don't wait for motivation. I wait for inspiration —*
+> *and when it hits at midnight, I don't sleep.* 🌙
+
+I'm **Khurram Saeed** — a Flutter developer from the City of Flowers, **Peshawar 🇵🇰**
+I build apps quietly, ship them proudly, and debug them with `print()` — no shame whatsoever. 😄
+
+**What makes me different?**
+I don't just write code. I have full conversations with it. Sometimes it listens. Sometimes it doesn't. But we always figure it out. 💙
 
 ---
 
 <br/>
 
-<table><tr><td valign="top" width="60%">
+<table><tr><td valign="top" width="55%">
 
-##  About Me
+##  A Little About Me
 
--  **CS Student** — 3rd Year at University
-- 📍 Based in **Peshawar, Pakistan** 🇵🇰
--   **Flutter** mobile App developer
--  Also comfortable with **C++** & algorithms
--  Open to **collaborate** on Flutter / open source projects 🤝
--  Fun fact: I debug with **print()** and I'm proud of it 😄
+-  **CS Student** — 3rd Year, still learning, always building
+- 📍 From **Peshawar, Pakistan** 🇵🇰 
+-  **Flutter** is my love language
+-  **C++** taught me patience. Flutter gave me results.
+-  I code *whenever inspiration hits* — terrible timing, amazing output ⚡ 
+-  Fun fact: I debug with **print()** and I will **not** apologize for it 😄
+-  Always open to collaborate — especially if your idea sounds crazy enough 🤝
+- ☕ Chai is not optional. It is infrastructure.
 
-</td><td valign="top" width="40%">
+</td><td valign="top" width="45%">
 
 ## 🛠 Tech Stack
 
 **Mobile Development**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
-**Programming Languages**
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-**Tools & Version Control**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+
+**Currently Exploring 🔭**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-00B4D8?style=flat-square&logoColor=white)
 
 </td></tr></table>
 
 <br/>
+
+---
+
+<br/>
+
+##  What I'm Up To
+
+```dart
+class KhurramSaeed {
+  final String role     = "Flutter Developer";
+  final String location = "Peshawar, Pakistan 🇵🇰";
+  final String status   = "Building something cool... probably";
+  final String mood     = "Inspired (at 2AM as usual) 🌙";
+
+  String get funFact => "I debug with print() and ship great apps anyway 😄";
+
+  List<String> get currentlyDoing => [
+    " Building Flutter cross-platform apps",
+    " 3rd Year CS Student grinding algorithms",
+    " Exploring Firebase & REST APIs",
+    " Looking for cool people to collaborate with" 🤝,
+  ];
+}
+```
 
 ---
 
@@ -90,9 +146,9 @@
 
 <img src="https://github-trophies.vercel.app/?username=khurramdevs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 
-## 📈 Contribution Graph
+<br/><br/>
 
-<br/>
+## 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khurramdevs&theme=tokyo-night&hide_border=true&area=true)
 
@@ -104,15 +160,48 @@
 
 <br/>
 
+##  My Developer Philosophy
+
 <div align="center">
 
-## 🤝 Let's Connect
+| 💡 | *"First, understand the problem. Then write the code."* |
+|---|---|
+| 🔥 | *"Inspiration doesn't knock — it shows up uninvited at midnight with a great idea."* |
+| 😄 | *"And if all else fails... Google it. We ALL do."* |
+
+</div>
+
+---
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khurram-saeed-68852932b)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khurramsaeed934@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khurramdevs)
+## 🎯 My Developer Personality
+
+```
+Quiet in Person          ████████████████████  100%
+Productive in Silence    ███████████████░░░░░   65%
+Funny & Chill            ████████████░░░░░░░░   60%
+Debugging with print()   ████████████████████  100%  (no regrets)
+Chai Consumption         ████████████████████  100%  (critical)
+Pushing at 2AM           ██████████████░░░░░░   50%
+```
+
+---
+
+<br/>
+
+<div align="center">
+
+## 🤝 Let's Connect — I Don't Bite 😄
+
+*Seriously though, if you have a cool idea, a project, or just want to talk Flutter —*
+*my DMs are open and I actually reply.* 👇
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khurram-saeed-68852932b)
+[![Gmail](https://img.shields.io/badge/Gmail-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khurramsaeed934@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khurramdevs)
 
 <br/>
 
@@ -128,6 +217,11 @@
 
 <div align="center">
 
-⭐ If you find my work helpful, consider giving a star!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,100:00B4D8&height=120&section=footer&text=Thanks%20for%20visiting!%20You%20are%20awesome%20👑&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+
+*If something here made you smile — mission accomplished.* 😄
+*If something impressed you — let's talk.* 🤝
+
+⭐ If you find my work helpful, a star means the world to me!
 
 </div>
