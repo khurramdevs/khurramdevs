@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0077B6&height=200&section=header&text=Khurram%20Saeed&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Peshawar%20%F0%9F%87%B5%F0%9F%87%B0%20%7C%20CS%20Student&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:1a1b27,100:00B4D8&height=220&section=header&text=Khurram%20Saeed&fontSize=55&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Flutter%20Developer%20%7C%20CS%20Student%20%7C%20Peshawar%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=60&descSize=20&descAlign=50&animation=twinkling" />
 
 </div>
 
@@ -18,7 +18,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=580&lines=Of+all+the+profiles+in+the+world...+you+found+mine+%F0%9F%91%8B;Welcome+%E2%80%94+I%27m+Khurram+Saeed+%F0%9F%92%99;Flutter+Developer+from+Peshawar+%F0%9F%87%B5%F0%9F%87%B0;Building+Cross-Platform+Apps+%F0%9F%92%99;I+Don%27t+Follow+a+Schedule...;I+Follow+Inspiration+%E2%9C%A8;Open+to+Collaborate+%F0%9F%A4%9D;Warning%3A+May+Cause+Collaboration+%F0%9F%98%84" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=580&lines=Of+All+the+profiles+in+the+world...+you+found+mine+%F0%9F%91%8B;Welcome+%E2%80%94+I%27m+Khurram+Saeed;Flutter+Developer+from+Peshawar+%F0%9F%87%B5%F0%9F%87%B0;Building+Cross-Platform+Apps+%F0%9F%92%99;I+Don%27t+Follow+a+Schedule...;I+Follow+Inspiration+%E2%9C%A8;Open+to+Collaborate+%F0%9F%A4%9D;Warning%3A+May+Cause+Collaboration+%F0%9F%98%84" alt="Typing SVG" />
 
 <br/><br/>
 
