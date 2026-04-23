@@ -30,7 +30,7 @@
 
 - 🎓 **CS Student** — 3rd Year at University
 - 📍 Based in **Peshawar, Pakistan** 🇵🇰
-- 💙 Passionate **Flutter & Dart** mobile developer
+- 💙 Passionate **Flutter** mobile developer
 - ⚙️ Also comfortable with **C++** & algorithms
 - 🌱 Currently learning **clean architecture** & state management
 - 🤝 Open to **collaborate** on Flutter / open source projects
